@@ -1,0 +1,3 @@
+[submodule "finicity"]
+	path = finicity
+	url = https://github.com/Rickyzhao84/finicity.git
